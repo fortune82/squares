@@ -1,0 +1,18 @@
+.container {
+    margin: 0 auto;
+    width: 550px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.squares {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.squares2 {
+    background-color: blue;
+}
